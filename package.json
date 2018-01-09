@@ -1,0 +1,12 @@
+{
+  "name": "rails_with_stimulus",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "^3.2.0",
+    "coffeescript": "1.12.7",
+    "stimulus": "^0.9.0"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^2.10.0"
+  }
+}
